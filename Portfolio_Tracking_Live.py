@@ -37,7 +37,7 @@ This app allows you to analyze the performance of different asset classes on att
 # In[4]:
 
 
-obb.account.login(pat="OBB_PAT")
+obb.account.login(pat="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoX3Rva2VuIjoiaHUxZzF0enNuV0Y5VDU4eGRTenN1Z2NDNlE0TExFV0tKVkVselBkciIsImV4cCI6MTc2NTk4OTc4OX0.byTobLFs8xhOUJpdnj5AfmsupAuhfo9XRekfm3PPNcw")
 
 
 # In[6]:
